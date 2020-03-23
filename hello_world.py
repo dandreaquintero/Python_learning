@@ -5,3 +5,4 @@ def to_farenheit(celcius):
     return faren
 
 def to_celcius(faren):
+    return(faren-32)/1.8
